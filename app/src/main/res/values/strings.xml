@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Forca</string>
+    <string name="jogar">Jogar</string>
+    <string name="configura_o">Configuração</string>
+</resources>
